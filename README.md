@@ -1,1 +1,2 @@
-# MANDEL
+# MENDEL
+Ce code C++ permet à l'utilisateur de saisir les coefficients d'un nombre complexe et de choisir entre un nombre complexe ou un réel pour une autre variable. En fonction du choix, il génère une suite de nombres complexes en utilisant une formule récursive et affiche les résultats. La suite est calculée pour un nombre spécifié de termes, avec des conditions pour gérer les cas des complexes et des réels.
